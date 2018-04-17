@@ -1,0 +1,54 @@
+p30download.com : 21 {'state': 'open', 'reason': 'syn-ack', 'name': 'ftp', 'product': 'Pure-FTPd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:pureftpd:pure-ftpd'}
+p30download.com : 22 {'state': 'open', 'reason': 'syn-ack', 'name': 'ssh', 'product': 'OpenSSH', 'version': '5.3', 'extrainfo': 'protocol 2.0', 'conf': '10', 'cpe': 'cpe:/a:openbsd:openssh:5.3'}
+p30download.com : 25 {'state': 'open', 'reason': 'syn-ack', 'name': 'smtp', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}
+p30download.com : 53 {'state': 'closed', 'reason': 'conn-refused', 'name': 'domain', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}
+p30download.com : 80 {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': 'nginx', 'version': '1.4.4', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:igor_sysoev:nginx:1.4.4'}
+p30download.com : 110 {'state': 'open', 'reason': 'syn-ack', 'name': 'pop3', 'product': 'Dovecot pop3d', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:dovecot:dovecot'}
+p30download.com : 143 {'state': 'open', 'reason': 'syn-ack', 'name': 'imap', 'product': 'Dovecot imapd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:dovecot:dovecot'}
+p30download.com : 443 {'state': 'open', 'reason': 'syn-ack', 'name': 'ssl', 'product': 'Apache httpd', 'version': '', 'extrainfo': 'SSL-only mode', 'conf': '10', 'cpe': 'cpe:/a:apache:http_server'}
+
+****************
+
+google.com : 80 {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': 'gws', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': ''}
+google.com : 443 {'state': 'open', 'reason': 'syn-ack', 'name': 'https', 'product': 'gws', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': ''}
+
+****************
+
+downloadha.com : 21 {'state': 'open', 'reason': 'syn-ack', 'name': 'ftp', 'product': 'Pure-FTPd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:pureftpd:pure-ftpd'}
+downloadha.com : 22 {'state': 'closed', 'reason': 'conn-refused', 'name': 'ssh', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}
+downloadha.com : 25 {'state': 'open', 'reason': 'syn-ack', 'name': 'smtp', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}
+downloadha.com : 53 {'state': 'open', 'reason': 'syn-ack', 'name': 'domain', 'product': 'ISC BIND', 'version': '9.9.4', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/o:redhat:enterprise_linux:7'}
+downloadha.com : 80 {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': 'LiteSpeed httpd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': ''}
+downloadha.com : 110 {'state': 'open', 'reason': 'syn-ack', 'name': 'pop3', 'product': 'Dovecot pop3d', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:dovecot:dovecot'}
+downloadha.com : 143 {'state': 'open', 'reason': 'syn-ack', 'name': 'imap', 'product': 'Dovecot imapd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:dovecot:dovecot'}
+downloadha.com : 210 {'state': 'closed', 'reason': 'conn-refused', 'name': 'z39.50', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}
+downloadha.com : 443 {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': 'LiteSpeed httpd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': ''}
+
+****************
+
+iaun.ac.ir : 80 {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': 'Apache httpd', 'version': '', 'extrainfo': 'PHP 7.2.4', 'conf': '10', 'cpe': 'cpe:/a:php:php:7.2.4'}
+iaun.ac.ir : 443 {'state': 'open', 'reason': 'syn-ack', 'name': 'ssl', 'product': 'Apache httpd', 'version': '', 'extrainfo': 'SSL-only mode', 'conf': '10', 'cpe': 'cpe:/a:apache:http_server'}
+
+****************
+
+maktabkhooneh.org : 22 {'state': 'open', 'reason': 'syn-ack', 'name': 'ssh', 'product': 'OpenSSH', 'version': '6.6.1p1 Ubuntu 2ubuntu2.10', 'extrainfo': 'Ubuntu Linux; protocol 2.0', 'conf': '10', 'cpe': 'cpe:/o:linux:linux_kernel'}
+maktabkhooneh.org : 25 {'state': 'open', 'reason': 'syn-ack', 'name': 'smtp', 'product': 'Postfix smtpd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:postfix:postfix'}
+maktabkhooneh.org : 53 {'state': 'open', 'reason': 'syn-ack', 'name': 'domain', 'product': '', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': ''}
+maktabkhooneh.org : 80 {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': 'nginx', 'version': '1.4.6', 'extrainfo': 'Ubuntu', 'conf': '10', 'cpe': 'cpe:/o:linux:linux_kernel'}
+maktabkhooneh.org : 110 {'state': 'closed', 'reason': 'conn-refused', 'name': 'pop3', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}
+maktabkhooneh.org : 143 {'state': 'closed', 'reason': 'conn-refused', 'name': 'imap', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}
+maktabkhooneh.org : 443 {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': 'nginx', 'version': '1.4.6', 'extrainfo': 'Ubuntu', 'conf': '10', 'cpe': 'cpe:/o:linux:linux_kernel'}
+
+****************
+
+soft98.ir : 21 {'state': 'open', 'reason': 'syn-ack', 'name': 'ftp', 'product': 'Pure-FTPd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:pureftpd:pure-ftpd'}
+soft98.ir : 22 {'state': 'closed', 'reason': 'conn-refused', 'name': 'ssh', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}
+soft98.ir : 25 {'state': 'open', 'reason': 'syn-ack', 'name': 'smtp', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}
+soft98.ir : 53 {'state': 'open', 'reason': 'syn-ack', 'name': 'domain', 'product': 'ISC BIND', 'version': '9.9.4', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/o:redhat:enterprise_linux:7'}
+soft98.ir : 80 {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': 'LiteSpeed httpd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': ''}
+soft98.ir : 110 {'state': 'open', 'reason': 'syn-ack', 'name': 'pop3', 'product': 'Dovecot pop3d', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:dovecot:dovecot'}
+soft98.ir : 143 {'state': 'open', 'reason': 'syn-ack', 'name': 'imap', 'product': 'Dovecot imapd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': 'cpe:/a:dovecot:dovecot'}
+soft98.ir : 210 {'state': 'closed', 'reason': 'conn-refused', 'name': 'z39.50', 'product': '', 'version': '', 'extrainfo': '', 'conf': '3', 'cpe': ''}
+soft98.ir : 443 {'state': 'open', 'reason': 'syn-ack', 'name': 'http', 'product': 'LiteSpeed httpd', 'version': '', 'extrainfo': '', 'conf': '10', 'cpe': ''}
+
+****************
